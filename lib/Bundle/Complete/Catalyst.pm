@@ -3,7 +3,7 @@ package Bundle::Complete::Catalyst;
 use warnings;
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
@@ -24,7 +24,7 @@ Catalyst
 
 Catalyst::Helper::Controller::Scaffold::HTML::Template
 
-Catalyst::Plugin::FormValidate::Simple::OwnCheck
+Catalyst::Plugin::FormValidator::Simple::OwnCheck
 
 Catalyst::Engine::Apache
 
@@ -50,7 +50,7 @@ Catalyst::Model::DBI
 
 Catalyst::Model::DBI::SQL::LIbrary
 
-Catalyst::Moddel::Proxy
+Catalyst::Model::Proxy
 
 Catalyst::Action::RenderView::ErrorHandler
 
@@ -78,15 +78,13 @@ Catalyst::Model::DBIC
 
 Catalyst::Model::Gedcom
 
-catalyst::Model::WebService::Lucene
+Catalyst::Model::WebService::Lucene
 
 Catalyst::Plugin::ConfigLoader
 
 Catalyst::Plugin::I18N::Request
 
 Catalyst::View::vCard
-
-Catalyst::Plugin::AtomServer
 
 Catalyst::Plugin::AtomServer
 
@@ -160,7 +158,7 @@ Catalyst::Plugin::RequestToken
 
 Catalyst::View::GD::Barcode::QRcode
 
-Cayalyst::Action::REST
+Catalyst::Action::REST
 
 Catalyst::Log::Log4perl
 
@@ -306,7 +304,7 @@ Catalyst::Plugin::Cache::FastMmap
 
 Catalyst::Plugin::Compress::Bzip2
 
-Cayalyst::Plugin::Compress::Zlib
+Catalyst::Plugin::Compress::Zlib
 
 Catalyst::Plugin::DefaultEnd
 
@@ -348,7 +346,7 @@ Catalyst::Plugin::Upload::MIME
 
 Catalyst::Runtime
 
-catalyst::View::CSS::Squish
+Catalyst::View::CSS::Squish
 
 Catalyst::View::HTML::Template
 
@@ -414,7 +412,7 @@ Catalyst::Plugin::Session::Flex
 
 Catalyst::View::PHP
 
-Catalyst::Plugin::Authentication::Crededntial::CHAP
+Catalyst::Plugin::Authentication::Credential::CHAP
 
 Catalyst::Plugin::Authentication::Credential::PAM
 
@@ -456,9 +454,9 @@ Catalyst::View::HTML::Template
 
 Catalyst::View::Petal
 
-Catalyst::View::TEST::XML
+Catalyst::View::REST::XML
 
-Catalust::View::REST::YAML
+Catalyst::View::REST::YAML
 
 Catalyst::View::TT
 

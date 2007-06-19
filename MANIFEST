@@ -1,7 +1,7 @@
 Changes
-lib/Bundle/Complete/Catalyst.pm
 Makefile.PL
 MANIFEST
 README
 t/Bundle-Complete-Catalyst.t
+lib/Bundle/Complete/Catalyst.pm
 META.yml                                 Module meta-data (added by MakeMaker)

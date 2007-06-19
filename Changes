@@ -1,5 +1,6 @@
-Revision history for Bundle-Complete-Catalyst
+Revision history for Perl extension Bundle::Complete::Catalyst.
 
-0.01    Fri June 15 02:04:20 2007
-         -original version; created using Module::Starter
-
+0.02  Tue Jun 19 01:08:47 2007
+	- original version; created by h2xs 1.23 with options
+		-AXcfn Bundle::Complete::Catalyst
+                      -fixed typos
