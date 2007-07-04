@@ -3,7 +3,7 @@ package Bundle::Complete::Catalyst;
 use warnings;
 use strict;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 1;
 
@@ -48,7 +48,7 @@ Catalyst::View::HTML::Embperl
 
 Catalyst::Model::DBI
 
-Catalyst::Model::DBI::SQL::LIbrary
+Catalyst::Model::DBI::SQL::Library
 
 Catalyst::Model::Proxy
 
